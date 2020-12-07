@@ -1,0 +1,101 @@
+[
+   {
+      "id":"0",
+      "name":"hyesoo Lee",
+      "profileimg":"https://i.pinimg.com/564x/6d/3e/22/6d3e22e88c4b3e98f3ba3fe560c25d83.jpg",
+      "profilemsg":"Hello",
+      "email":"Userid@gmail.com",
+      "backgroundimg":"https://i.pinimg.com/474x/0b/48/44/0b484482a484f1f6e477ec100e0d489a.jpg",
+      "chatmsg":"Hello! This is a test message!"
+   },
+    {
+        "id":"1",
+        "name":"Milie",
+        "profileimg":"https://i.pinimg.com/564x/af/99/b8/af99b8969e0fbd323eb4319452d9faf0.jpg",
+        "profilemsg":"HappyHappy",
+        "email":"Lisa@gmail.com",
+        "backgroundimg":"https://i.pinimg.com/474x/ca/27/57/ca2757320c646f22fa23fd63aa17131b.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"2",
+        "name":"Hush",
+        "profileimg":"https://i.pinimg.com/564x/c5/9c/ca/c59cca7ee71d4f0016653e1eeb63ffc7.jpg",
+        "profilemsg":"🤪",
+        "email":"Madonna@gmail.com",
+        "backgroundimg":"https://i.pinimg.com/474x/85/14/7c/85147c9940714e723228ef94949286bf.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"3",
+        "name":"Sally",
+        "profileimg":"https://i.pinimg.com/564x/bc/dd/2b/bcdd2b476f8b8c62b452b8ef80b5a296.jpg",
+        "profilemsg":"Haha",
+        "email":"Hash@daum.net",
+        "backgroundimg":"https://i.pinimg.com/236x/92/84/3d/92843d4ca5807c2e21b8870cce48995d.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"4",
+        "name":"Jessica",
+        "profileimg":"https://i.pinimg.com/564x/4b/57/01/4b5701c0a71ca51a7609ab1496d1bba0.jpg",
+        "profilemsg":"It's me",
+        "email":"Jenny@naver.com",
+        "backgroundimg":"https://i.pinimg.com/236x/bd/08/09/bd0809ebfaa4d13cba2fb267d054540f.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"5",
+        "name":"Summer",
+        "profileimg":"https://i.pinimg.com/564x/5d/de/a5/5ddea5ef4d360fb4d2d27cceade76962.jpg",
+        "profilemsg":"GoGo✈️",
+        "email":"Biber@gmail.com",
+        "backgroundimg":"https://i.pinimg.com/236x/02/f0/9b/02f09b4dd8e3bb1f44d0c4853e22168a.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":"6",
+        "name":"Fanny",
+        "profileimg":"https://i.pinimg.com/236x/fc/c4/d1/fcc4d1e62422d528670403e8d1f6dce6.jpg",
+        "profilemsg":"text me",
+        "email":"Rose@naver.com",
+        "backgroundimg":"https://i.pinimg.com/236x/ca/27/57/ca2757320c646f22fa23fd63aa17131b.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":7,
+        "name":"Hera",
+        "profileimg":"https://i.pinimg.com/564x/5b/e0/06/5be0067f270ea56e127d6d6f4df62cb5.jpg",
+        "profilemsg":"Thanks",
+        "email":"Jisu@daum.net",
+        "backgroundimg":"https://i.pinimg.com/236x/40/29/88/40298844b6b58c684286d9e91df1ab48.jpg",
+        "chatmsg":"Hello! This is a test message!"
+     },
+     {
+        "id":8,
+        "name":"Juliet",
+        "profileimg":"https://i.pinimg.com/564x/4e/2a/b2/4e2ab2e64e113f8ec017e9e036c49530.jpg",
+        "profilemsg":"Goodday",
+        "email":"kakaoTalk@gmail.com",
+        "backgroundimg":"https://i.pinimg.com/474x/1a/00/63/1a00631a59fb9d8b6007ad76089fe4a5.jpg",
+        "chatmsg":"You logged into KakaoTalk PC"
+     },
+     {
+      "id":9,
+      "name":"Kerri",
+      "profileimg":"https://i.pinimg.com/564x/28/d0/f8/28d0f8ac830fa8159ae66535aa00f6cb.jpg",
+      "profilemsg":"Loveyou",
+      "email":"kakaoTalk@gmail.com",
+      "backgroundimg":"https://i.pinimg.com/474x/0b/48/44/0b484482a484f1f6e477ec100e0d489a.jpg",
+      "chatmsg":"You logged into KakaoTalk PC"
+   },
+   {
+      "id":10,
+      "name":"Molly",
+      "profileimg":"https://i.pinimg.com/564x/28/d0/f8/28d0f8ac830fa8159ae66535aa00f6cb.jpg",
+      "profilemsg":"Welcom to kakao",
+      "email":"kakaoTalk@gmail.com",
+      "backgroundimg":"https://i.pinimg.com/474x/0b/48/44/0b484482a484f1f6e477ec100e0d489a.jpg",
+      "chatmsg":"You logged into KakaoTalk PC"
+   }
+]

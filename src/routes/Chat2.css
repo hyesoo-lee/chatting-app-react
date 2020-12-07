@@ -1,0 +1,33 @@
+
+.Chat2_body{display: flex;flex-direction: column;height: 100vh;}
+
+header.Chat2_header{width: 100%;height: 101px;padding: 15px;position: fixed;top: 0;left: 0;background-color:  rgba(149, 191, 229, 0.3);z-index: 9999;}
+.Chat2_header .header_top{display: flex;justify-content: space-between;}
+.Chat2_header .header_bottom{display: flex;justify-content: space-between;margin-top: 30px;font-size: 20px;}
+.Chat2_header .header_1{font-weight: bold;}
+.Chat2_header .header_2{font-size: 15px;font-weight: bold;letter-spacing: 1px;}
+.Chat2_header .header_03{flex: 1;}
+.Chat2_header .header_04{flex: 1;text-align: center;}
+.Chat2_header .header_05{flex: 1;text-align: right;}
+.Chat2_header .header_05 i{font-size: 15px;margin-left: 10px;}
+
+
+
+main.Chat2_main{background-color: #b2c7d9;flex: 1; padding: 120px 20px 60px;}
+main.Chat2_main img{width: 50px;height: 50px;border: 1px solid #ccc; border-radius: 40%;}
+main.Chat2_main > p{text-align: center;color: #777;margin-bottom: 20px;}
+
+.Chat2_main .me{display: flex;justify-content: flex-end;margin-bottom: 30px;text-align: right;}
+.Chat2_main .you{display: flex;}
+.Chat2_main .talk{background-color: #fff;line-height: 40px;padding: 7px 10px; border-radius: 12px;font-size: 15px;margin: 10px 5px 0 10px;}
+.Chat2_main .name{margin-left: 10px;line-height: 30px;}
+.Chat2_main span.time{align-self: flex-end;font-size: 12px;color: #888;}
+
+nav.Chat2_nav{display: flex;justify-content: space-between;position: fixed;bottom: 0;left: 0;border-top: 1px solid #eee;width: 100%;height: 60px;background-color: #fff;padding: 12px 26px 0;}
+nav.Chat2_nav i{font-size: 30px;color: #ccc;padding-top: 2px;}
+nav.Chat2_nav i:hover{color: #888;}
+nav.Chat2_nav div{width: 90%;position: relative;}
+nav.Chat2_nav div input{width: 100%;height: 30px;border-radius: 20px;border: 1px solid #ccc;}
+nav.Chat2_nav div i{position: absolute;top: 3px;font-size: 25px;}
+nav.Chat2_nav div > i:first-of-type{right: 40px;}
+nav.Chat2_nav div > i:last-of-type{right: 10px;}

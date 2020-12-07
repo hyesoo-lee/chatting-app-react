@@ -1,0 +1,25 @@
+@import "reset.css";
+@import "header.css";
+
+main.more_main{display: flex;flex-direction: column;flex-wrap: wrap;padding: 120px 15px 60px;}
+
+.more_main .myProfile{display: flex;justify-content: space-between;margin-bottom: 25px;}
+.more_main .profile{display: flex;}
+.more_main img{width: 50px;height: 50px;border: 1px solid #ccc; border-radius: 40%;}
+.more_main .name{padding-left: 10px;line-height: 23px;font-weight: bold;font-size: 20px;}
+.more_main .email{font-weight: normal;font-size: 13px;}
+.more_main .my{display: flex;}
+.more_main .my p{margin-top: 10px; padding: 8px 15px;border: 1px solid #ccc;margin-left: 5px;border-radius: 15px;height: 30px;font-weight: bold;}
+
+
+.more_main .kakao_pay{display: flex;justify-content: space-between; background-color: #eee;padding: 10px 15px;border-radius: 10px;}
+.more_main .kakao_pay p{background-color: #fff;padding: 5px 8px;border-radius: 15px;font-size: 16px;}
+.more_main .kakao_pay p i{padding-top: 2px;}
+.more_main .kakao_pay p strong{font-weight: bold;padding-right: 3px;}
+.more_main .kakao_pay div a{line-height: 30px;margin-left: 15px;font-size: 17px;}
+
+.more_main .menu ul{display: flex;flex-wrap: wrap;justify-content: center;padding-top: 15px;}
+.more_main .menu ul li a{display: flex;flex-direction: column; width: 110px;height: 110px;padding: 20px;text-align: center;}
+.more_main .menu ul li a i{font-size: 35px;color: #888;padding-bottom: 13px; transition: all 0.3s linear 0s;}
+.more_main .menu ul li a span{font-size: 11px;color: #000;}
+.more_main .menu ul li a:hover i{transform: scale(1.3);color: #444;}

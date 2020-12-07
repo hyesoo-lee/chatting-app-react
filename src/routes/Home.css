@@ -1,0 +1,44 @@
+@import "reset.css";
+@import "header.css";
+
+
+/* home.css */
+main.home_main{display: flex;flex-direction: column;padding: 101px 15px 60px;}
+
+main.home_main img{width: 50px;height: 50px;border: 1px solid #ccc; border-radius: 40%;}
+
+.home_main .down.on{display: none;}
+.home_main .myProfile{display: flex;}
+.home_main .myProfile img{width: 70px;height: 70px;}
+.home_main .myProfile a{padding-left: 10px; line-height: 70px;color: #333;font-weight: bold;font-size: 17px;}
+.home_main .myProfile span{display: none;}
+
+main.home_main>div{border-bottom: 1px solid #eee;padding: 10px 0;width: 100%;}
+main.home_main>div:last-of-type{border-bottom: none;}
+main.home_main a{display: flex;justify-content: space-between;color: #888;vertical-align: center;padding-bottom: 10px;}
+
+span.up{display: inline-block; width: 7px;height: 10px; background: url(../images/ico_updown.png) no-repeat 0 3px;}
+span.up.on{background: url(../images/ico_updown.png) no-repeat 0 -20px;}
+
+.home_main .friend2{display: flex;width: 100%;height: 60px;}
+.home_main .friend{width: 100%;height: 60px;}
+.home_main .name{line-height: 50px;padding-left: 10px;}
+.Profile02 .friend a{line-height: 50px;padding-left: 10px;font-size: 15px;color: #333;}
+.home_main .birthday{width: 50px;height: 50px;background-color: palevioletred;border-radius: 40%;color: #fff;line-height: 50px;font-size: 25px;text-indent: 7px;}
+
+.home_main .gift_emo{display: inline-block;}
+.home_main .gift_emo > img{float: left;}
+.home_main .gift_emo > span.name{float: left;}
+.home_main .gift_emo > .gift{float: right;}
+.home_main .gift_emo .name i{color: palevioletred;font-size: 15px;}
+
+.home_main .gift{margin-top: 5px;display: block;width: 110px;height: 30px; border: 1px solid palevioletred;border-radius: 15px;font-size: 12px;}
+.home_main .gift > span{line-height: 30px;padding-left: 6px;}
+.home_main .gift i{padding-left: 4px;color: palevioletred;}
+
+.home_main .play_music{display: inline-block;}
+.home_main .play_music img{float: left;}
+.home_main .play_music .name{float: left;}
+.home_main .play_music .music{float: right;margin-top: 5px;}
+.home_main .music{display: inline-block;width: 110px;height: 30px;line-height: 30px;text-indent: 6px;color: #888; border:1px solid #59c369;border-radius: 15px; font-size: 12px;}
+.home_main .music i{color: #59c369;font-size: 9px;}

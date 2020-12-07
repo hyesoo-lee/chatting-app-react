@@ -1,0 +1,12 @@
+@import "reset.css";
+@import "header.css";
+
+.srch{display: flex;justify-content: center;position: absolute;top: 40px;width: 100%;background-color: #fff;}
+.srch input{width: 80%;padding: 10px 40px;background-color: #f9f9f9;border: 1px solid #eee;border-radius: 10px;margin-bottom: 15px;}
+::placeholder{color: #ddd;}
+.srch i{position: absolute;top: 12px;left: 60px;color: #ddd;}
+
+.loader{margin-top: 300px;text-align: center;font-size: 30px;}
+
+main.chat_main ul{padding: 150px 15px 60px;
+    display: flex;flex-direction: column;width: 100vw;}
